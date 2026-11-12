@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "kaiju:block/nuke_block"
+    }
+  }
+}

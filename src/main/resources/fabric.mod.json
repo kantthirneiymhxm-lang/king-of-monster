@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1, "id": "kaiju", "version": "1.0.0", "name": "Kaiju: Godzilla & King Ghidorah",
+  "description": "Godzilla, King Ghidorah, Kaiju DNA and Kaiju armor.", "license": "MIT",
+  "environment": "*",
+  "entrypoints": { "main": ["com.kaiju.KaijuMod"], "client": ["com.kaiju.client.KaijuClient"] },
+  "depends": { "fabricloader": ">=0.15.0", "minecraft": "~1.20.1", "java": ">=17", "fabric-api": "*", "geckolib": ">=4.4.0" }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IBI",
+    "BEB",
+    "IBI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "B": {
+      "item": "minecraft:iron_block"
+    },
+    "E": {
+      "item": "minecraft:beacon"
+    }
+  },
+  "result": {
+    "item": "kaiju:nuclear_ship_device",
+    "count": 1
+  }
+}
